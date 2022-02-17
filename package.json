@@ -1,0 +1,24 @@
+{
+  "name": "myproject",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.16",
+    "vue-js-star-rating": "^1.1.5",
+    "vue-router": "^4.0.12",
+    "vue-star-rating": "^2.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "sass": "^1.43.2",
+    "sass-loader": "^12.3.0",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4"
+  }
+}
